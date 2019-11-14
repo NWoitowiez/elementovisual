@@ -1,0 +1,16 @@
+.contenedor {
+  margin: 40px;
+  padding: 20px;
+  position: relative;
+  z-index: -1;
+  width: 250px;
+}
+.medalla {
+  position: absolute;
+  width: 80px;
+  right: 0px;
+}
+
+.imagen {
+  width: 250px;
+}
